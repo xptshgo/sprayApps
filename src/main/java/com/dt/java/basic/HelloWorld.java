@@ -5,6 +5,7 @@ package com.dt.java.basic;
  */
 public class HelloWorld {
     public static void main(String[] args) {
+        System.out.println("first java file");
         System.out.println("HelloWorld!!!");
     }
 }
